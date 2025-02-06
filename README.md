@@ -1,6 +1,6 @@
 # old-games
 
-dave
+# dave
 hercules
 taarzan
 roadrash
@@ -10,3 +10,5 @@ iGi
 virtua cop
 wolf 3d
 nfs 2 se
+prince of persia
+
