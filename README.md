@@ -17,4 +17,6 @@
 - nfs undercover
 - gta vicecity
 - all nfs franchise
+- sky roads
+- silent hill
 
